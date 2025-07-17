@@ -3,12 +3,12 @@
 ---
 
 ## About Me
-- 🌟 I am a software application developer (since 2020)
-- 🌱 I’m currently learning Android Development and brushing up on DSA for interview preparation
-- 🌐 I'm intrigued by Machine Learning and low-level concepts
-- 📫 How to reach me: Email: kaushikkalesh@gmail.com, Discord: @KDawg#8614
+- 🌟 I am a software application developer (since 2026)
+- 🌱 I’m currently learning Backend Development and brushing up on DSA for interview preparation
+- 🌐 I'm intrigued by Mogging and Edging
+- 📫 How to reach me: Email: shivshankar11a@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I’m a sweaty gamer
+- ⚡ Fun fact: I’m a sweaty gooner
 
 ---
 
