@@ -46,10 +46,7 @@
 ---
 
 ## Reach Me Via
-<a style="margin:0px 2px;" href="https://discordapp.com/users/750577384104919061">
-    <img width="40px" height="40px" src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" alt="discord">
-</a>
-<a style="margin:0px 2px;" href="mailto:kaushikkalesh@gmail.com">
+<a style="margin:0px 2px;" href="mailto:shivshankar11a@gmail.com">
     <img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/1200px-Circle-icons-mail.svg.png" alt="email">
 </a>
 
