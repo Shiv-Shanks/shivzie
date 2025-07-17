@@ -36,12 +36,12 @@
 ---
 
 ## Github Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Kaushik-Kalesh&theme=radical&row=1&margin-w=5)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Shivxr&theme=radical&row=1&margin-w=5)
 
 ---
 
 ## GitHub Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaushik-Kalesh&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shivxr&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -54,5 +54,5 @@
 </a>
 
 <p align="center">
-    <img alt="Visitors" src="https://komarev.com/ghpvc/?username=Kaushik-Kalesh&style=flat-square" />
+    <img alt="Visitors" src="https://komarev.com/ghpvc/?username=Shivxr&style=flat-square" />
 </p>
